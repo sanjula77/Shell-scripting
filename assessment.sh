@@ -1,6 +1,6 @@
 #!/bin/bash
 
-inputTextPath="/home/sanjula/Desktop/input.txt"
+inputTextPath="/home/sanjula/Desktop/Shell Scripting/input.txt"
 
 outputSummaryPath="/home/sanjula/Desktop/summary.txt"
 
